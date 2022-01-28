@@ -1,0 +1,17 @@
+{
+  "name": "mysql_service",
+  "version": "1.0.0",
+  "description": "Simple connection to MySql database",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "BigBenny Ogbuani",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1"
+  }
+}
